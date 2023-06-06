@@ -1,8 +1,8 @@
-<h1 align="center">Welcome 👋</h1>
+<h3 align="center">Welcome 👋</h1>
 
 <p align="center">coming soon <a href="www.ersincabuk.dev">www.ersincabuk.dev</a></p>
 
-<div align="center"><img src="https://img.shields.io/github/followers/ErsinCabuk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></div>
+<h1></h1>
 
 <h3 align="center">Skills</h3>
 
@@ -20,11 +20,12 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-
+<h1></h1>
 <h3 align="center">Socials</h3>
 
 <p align="center"><a href="http://www.instagram.com/ersincabk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ErsinCabk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+<h1></h1>
 <h3 align="center">My GitHub Stats</h3>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErsinCabuk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ErsinCabuk's GitHub stats" />
