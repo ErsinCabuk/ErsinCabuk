@@ -1,6 +1,9 @@
 <h3 align="center">Welcome 👋</h1>
-<p align="center">coming soon <a href="https://github.com/ErsinCabuk/ersincabuk.dev">www.ersincabuk.dev</a></p>
-<p align="center">coming soon <a href="https://github.com/Gameith">Gameith</a></p>
+<p align="center">
+  coming soon <a href="https://github.com/ErsinCabuk/ersincabuk.dev">www.ersincabuk.dev</a>
+  <br/>
+  coming soon <a href="https://github.com/Gameith">Gameith</a>
+</p>
 
 <h1></h1>
 
