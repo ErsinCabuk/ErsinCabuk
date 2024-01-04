@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErsinCabuk&layout=compact&theme=dark&hide_border=true">
 
 # Hi 👋!
-I am a developer from Turkey. 
+I'm Ersin.
 <br>
 coming soon <a href="https://github.com/ErsinCabuk/ersincabuk.dev">www.ersincabuk.dev</a>
 
