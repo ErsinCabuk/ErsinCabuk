@@ -3,8 +3,6 @@
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErsinCabuk&theme=dark&hide_border=true&layout=compact">
   
   I'm Ersin.
-  <br>
-  coming soon https://ersincabuk.dev
 </p>
 
 <a href="http://www.instagram.com/ersincabk" target="_blank" rel="noreferrer">
